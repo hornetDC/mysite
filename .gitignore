@@ -1,0 +1,9 @@
+*.py~
+*.pyc
+*.pyo
+*.log
+db.sqlite3
+.idea
+.env
+static/
+media/
